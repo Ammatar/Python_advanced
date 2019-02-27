@@ -1,0 +1,2 @@
+2019-02-27 11:48:02,530 - INFO - args: ({'action': 'presence', 'time': 1551257282.5287008, 'user': {'account_name': 'Guest'}}) = {'response': 200} - presence_response - __main__
+2019-02-27 11:49:06,458 - INFO - args: ({'action': 'presence', 'time': 1551257346.4578052, 'user': {'account_name': 'Guest'}}) = {'response': 200} - presence_response - __main__
